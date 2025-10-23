@@ -2,10 +2,6 @@ Dashboard interativo de produção industrial, desenvolvido em Python, usando St
 
 ⸻
 
-https://github.com/user-attachments/assets/43853706-a29e-4475-8bcb-75274fc7e004
-
-
-
 🔹 Funcionalidades
 	•	Exibição de principais métricas:
 	•	Total produzido
